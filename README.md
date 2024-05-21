@@ -17,7 +17,7 @@ To get started with automating Skype text messaging in Python, follow these step
 
 3. **Clone this Repository**: If you haven't already, create a new directory for your project on your local machine. Open Git Bash or your preferred terminal and navigate to the newly created directory. Then, clone this repository by running the following command: Replace `<repository_url>` with the URL of this GitHub repository.
 
-4. **Run the Code**: Navigate to the project directory and run the Python script `automate_skype_messaging.py`. Make sure to replace the placeholders with your Skype username and password and adjust the message content as needed.
+4. **Run the Code**: Navigate and run the Python script `skp.py`. Make sure to replace the placeholders with your Skype username and password and adjust the message content as needed.
 
 ## Dependencies
 - Python 3.x
